@@ -1,6 +1,6 @@
 # Fjordle
 
-| [Play on itch.io](bgsulz.itch.io/fjordle) |
+| [Play on itch.io](https://bgsulz.itch.io/fjordle) |
 | -- |
 
 #### Rapid-fire Wordle solving action.
