@@ -1,3 +1,10 @@
 main
 obj/*
+bin/*
 *.exe
+*.code-workspace
+.cache
+.vscode
+Makefile
+Makefile_multi
+Makefile.Android
