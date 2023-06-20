@@ -1,7 +1,7 @@
 # Fjordle
 
-| -- |
 | [Play on itch.io](bgsulz.itch.io/fjordle) |
+| -- |
 
 #### Rapid-fire Wordle solving action.
 - 20 seconds on the clock. Everything but Q on the board.
