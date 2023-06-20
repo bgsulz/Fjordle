@@ -1,6 +1,7 @@
 main
 obj/*
 bin/*
+lib/*
 *.exe
 *.code-workspace
 .cache
