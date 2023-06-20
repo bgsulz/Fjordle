@@ -1,0 +1,27 @@
+[
+  {
+    "directory": "C:/Users/bgsma/Documents/Programming/Raylib Projects/Fjordle C",
+    "file": "src/display.c",
+    "command": "C:/raylib/w64devkit/bin/gcc.exe -c src/display.c -o obj/display.o -Wall -std=c99 -D_DEFAULT_SOURCE -Wno-missing-braces  -g -O0 -I . -I C:/raylib/raylib/src -I C:/raylib/raylib/src/external -I ./include -DPLATFORM_DESKTOP -I C:/raylib/w64devkit/x86_64-w64-mingw32/include"
+  },
+  {
+    "directory": "C:/Users/bgsma/Documents/Programming/Raylib Projects/Fjordle C",
+    "file": "src/io.c",
+    "command": "C:/raylib/w64devkit/bin/gcc.exe -c src/io.c -o obj/io.o -Wall -std=c99 -D_DEFAULT_SOURCE -Wno-missing-braces  -g -O0 -I . -I C:/raylib/raylib/src -I C:/raylib/raylib/src/external -I ./include -DPLATFORM_DESKTOP -I C:/raylib/w64devkit/x86_64-w64-mingw32/include"
+  },
+  {
+    "directory": "C:/Users/bgsma/Documents/Programming/Raylib Projects/Fjordle C",
+    "file": "src/main.c",
+    "command": "C:/raylib/w64devkit/bin/gcc.exe -c src/main.c -o obj/main.o -Wall -std=c99 -D_DEFAULT_SOURCE -Wno-missing-braces  -g -O0 -I . -I C:/raylib/raylib/src -I C:/raylib/raylib/src/external -I ./include -DPLATFORM_DESKTOP -I C:/raylib/w64devkit/x86_64-w64-mingw32/include"
+  },
+  {
+    "directory": "C:/Users/bgsma/Documents/Programming/Raylib Projects/Fjordle C",
+    "file": "src/sound.c",
+    "command": "C:/raylib/w64devkit/bin/gcc.exe -c src/sound.c -o obj/sound.o -Wall -std=c99 -D_DEFAULT_SOURCE -Wno-missing-braces  -g -O0 -I . -I C:/raylib/raylib/src -I C:/raylib/raylib/src/external -I ./include -DPLATFORM_DESKTOP -I C:/raylib/w64devkit/x86_64-w64-mingw32/include"
+  },
+  {
+    "directory": "C:/Users/bgsma/Documents/Programming/Raylib Projects/Fjordle C",
+    "file": "src/wordle.c",
+    "command": "C:/raylib/w64devkit/bin/gcc.exe -c src/wordle.c -o obj/wordle.o -Wall -std=c99 -D_DEFAULT_SOURCE -Wno-missing-braces  -g -O0 -I . -I C:/raylib/raylib/src -I C:/raylib/raylib/src/external -I ./include -DPLATFORM_DESKTOP -I C:/raylib/w64devkit/x86_64-w64-mingw32/include"
+  }
+]
