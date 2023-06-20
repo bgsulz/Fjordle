@@ -1,4 +1,4 @@
-# Fjordle
+![Fjordle Cover](https://github.com/bgsulz/Fjordle/assets/38191432/4feeb978-1745-44b3-a300-883e641afb61)
 
 | [Play on itch.io](https://bgsulz.itch.io/fjordle) |
 | -- |
